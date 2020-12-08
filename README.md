@@ -1,2 +1,2 @@
-# holycrab13.github.io
-github pages repository
+# y-skynet.github.io
+Githubpage repository
